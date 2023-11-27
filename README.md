@@ -1,4 +1,4 @@
-# Tarea 12 Rucardo Molina
+# Tarea 12 Ricardo Molina
 En este archivo GITHUB se encuentran los modelos UML de los 7 ejercicios propuestos en la tarea 12
 ## Enlaces
 
